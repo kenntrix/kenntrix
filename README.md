@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kennedy Wambua</h1>
+<h1 align="center">Hi, I'm Kennedy Wambua</h1>
 
 <p align="center">
   Software Developer • Technology Enthusiast
@@ -6,7 +6,7 @@
 
 ---
 
-## 👀 About Me
+## About Me
 - Passionate about **programming and modern technology**
 - Continuously improving my skills in **backend and full-stack development**
 - Open to collaborating on **open-source projects**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Languages
+## 🧠 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tools & Environment
+## 🛠 Programming Tools & Environments
 <p>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -53,4 +53,4 @@
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ *Always learning. Always building. Ready to collaborate*
