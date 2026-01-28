@@ -1,10 +1,52 @@
-- 👋 Hi, I am Kennedy Wambua 
-- 👀 I’m interested in `programming and tech`
-- 🌱 I’m currently improving my skills in programming languages and frameworks eg 'node.js, 'expressjs, laravel, nestjs and others' 
-- 💞️ I’m looking to collaborate on any open source projects
-- 📫 How to reach me -- check out my email (wambuambithe415gmail.com)
+<h1 align="center">👋 Hi, I'm Kennedy Wambua</h1>
 
-<!---
-kenntrix/daktar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Software Developer • Technology Enthusiast
+</p>
+
+---
+
+## 👀 About Me
+- Passionate about **programming and modern technology**
+- Continuously improving my skills in **backend and full-stack development**
+- Interested in **open-source collaboration** and real-world problem solving
+
+---
+
+## 🌱 Currently Learning & Working With
+- Node.js & Express.js
+- NestJS
+- Laravel
+- Modern backend architectures and APIs
+
+---
+
+## 🧠 Languages & Technologies
+### Programming Languages
+- JavaScript (ES6+)
+- PHP
+- Python
+- SQL
+
+### Frameworks & Tools
+- Node.js
+- Express.js
+- NestJS
+- Laravel
+- Git & GitHub
+- Linux (Ubuntu)
+
+---
+
+## 🤝 Open Source Collaboration
+- Open to contributing to **any meaningful open-source project**
+- Interested in backend systems, APIs, and scalable applications
+
+---
+
+## 📫 Contact
+- 📧 Email: **wambuambithe415@gmail.com**
+
+---
+
+⭐ *Always learning. Always building.*
