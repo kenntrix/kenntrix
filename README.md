@@ -13,7 +13,7 @@
 
 ---
 
-## 🌱 Currently Learning & Working With
+## 🌱 Currently Learning & Working With:
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Programming Languages
+## 🧠 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Programming Tools & Environments
+## 🛠 Programming Tools & Environments:
 <p>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,6 +50,7 @@
 
 ## 📫 Contact
 - 📧 Email: **wambuambithe415@gmail.com**
+- Phone: **+254707497022**
 
 ---
 
