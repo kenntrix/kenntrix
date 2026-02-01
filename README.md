@@ -35,10 +35,19 @@
 
 ## 🛠 Programming Tools & Environments:
 <p>
+  Experienced with Linux OS distributions including Ubuntu, Fedora, Arch Linux, and Manjaro.
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 
 ---
 
