@@ -1,19 +1,24 @@
-<h1 align="center">Hi, I'm Kennedy Wambua</h1>
+<h1 align="center">Hi 👋, I'm Kennedy Wambua</h1>
 
 <p align="center">
-  Software Developer • Technology Enthusiast
+  <strong>Software Developer</strong> • Backend & Full-Stack Engineering • Technology Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kennedywambua&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
 
-## About Me
-- Passionate about **programming and modern technology**
-- Continuously improving my skills in **backend and full-stack development**
-- Open to collaborating on **open-source projects**
+## 🚀 About Me
+- Passionate about **building reliable, scalable software systems**
+- Strong interest in **backend architecture, APIs, and system design**
+- Continuously improving skills in **full-stack and distributed systems**
+- Open and enthusiastic about **open-source collaboration**
 
 ---
 
-## 🌱 Currently Learning & Working With:
+## 🌱 Currently Learning & Working With
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -23,7 +28,7 @@
 
 ---
 
-## 🧠 Programming Languages:
+## 🧠 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -33,54 +38,46 @@
 
 ---
 
-## 🛠 Programming Tools & Environments:
+## 🛠 Tools, Databases & Environments
+
+<p><strong>Linux Distributions</strong></p>
 <p>
-  Experienced with Linux OS distributions including:
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
-</p>
-<p>
-  Familiar also with:
-</p>
+<p><strong>Development & Databases</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-
 ---
 
-## 🤝 Open Source
+## 🤝 Open Source & Collaboration
+
+<p><strong>Areas of Interest</strong></p>
 <p>
-  Interested in:
+  <img src="https://img.shields.io/badge/Backend_Systems-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Design-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scalable_Applications-2E7D32?style=for-the-badge"/>
 </p>
 
+<p><strong>Collaboration</strong></p>
 <p>
-  <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge&logo=serverfault&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scalable%20Applications-2E7D32?style=for-the-badge&logo=cloud&logoColor=white"/>
-</p>
-<p>
-  Happy to do:
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Open%20Source%20Collaborations-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Contributions-Welcome-00897B?style=for-the-badge"/>
 </p>
 
 ---
 
-
 ## 📫 Contact
-- 📧 Email: **wambuambithe415@gmail.com**
-- Phone: **+254707497022**
+- 📧 Email: <strong>wambuambithe415@gmail.com</strong>  
+- 📞 Phone: <strong>+254 707 497 022</strong>
 
 ---
 
-⭐ *Always learning. Always building. Ready to collaborate*
+⭐ <em>Always learning. Always building. Open to meaningful collaboration.</em>
