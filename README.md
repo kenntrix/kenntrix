@@ -57,10 +57,19 @@
 ---
 
 ## 🤝 Open Source
-- Interested in backend systems, APIs, and scalable applications
-- Happy to collaborate on **any open-source project**
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scalable%20Applications-2E7D32?style=for-the-badge&logo=cloud&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20Source%20Collaboration-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-00897B?style=for-the-badge"/>
+</p>
 
 ---
+
 
 ## 📫 Contact
 - 📧 Email: **wambuambithe415@gmail.com**
