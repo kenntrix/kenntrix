@@ -80,4 +80,4 @@
 
 ---
 
-⭐ <em>Always learning. Always building. Open to meaningful collaboration.</em>
+⭐ <em>Always learning. Always building. Ready to meaningful collaboration.</em>
